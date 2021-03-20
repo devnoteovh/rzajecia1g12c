@@ -1,0 +1,2 @@
+#komendatrz
+print("hello")
